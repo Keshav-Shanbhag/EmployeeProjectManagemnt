@@ -20,7 +20,10 @@
 * Manager can only view all Projects and Logged Hours by each Employee.
 * Individual Employee Cannot see others Logged Hours.
 
-##Class Diagram
+## Class Diagram
 
 ![Class Diagram](https://github.com/Keshav-Shanbhag/EmployeeProjectManagemnt/blob/main/Class%20Diagram.jpg)
+
+## Project Overview
+(https://github.com/Keshav-Shanbhag/EmployeeProjectManagemnt/blob/main/Project%20Overview.mp4)
 
