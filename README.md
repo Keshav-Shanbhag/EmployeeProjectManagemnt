@@ -6,7 +6,7 @@
 * Each Department is handled by a Single Manager under him that department's Employees are working.
 
 ## High Level Requirements:
-* Retrieve Details of Projects handled by Employees under a Manager.
+* Manager should able to Retrieve Details of Projects handled by Employees under him.
 * Retrieve Employees details working in Department handled by a manager.
 * Employee Updates Hours of Work on Each Projects worked.
 ## Low Level Requirements:
