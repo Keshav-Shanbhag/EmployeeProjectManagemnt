@@ -44,7 +44,9 @@
 (https://github.com/Keshav-Shanbhag/EmployeeProjectManagemnt/blob/main/Project%20Overview.mp4)
 
 ## Test Cases:
-|**Test ID**|**Description**|	**Results**|
+
+|  **Test ID**   |   **Description**  |	  **Results**   |
+|----------------|--------------------|-----------------|
 |1|	Password Validation	|Implemented|
 |2	|Employee Hours Updation	|Implemented|
 |3	|Employee Cannot Change Email,Employee ID |	Implemented|
@@ -61,15 +63,15 @@
  * https://github.com/Keshav-Shanbhag/EmployeeProjectManagemnt
 
 ## Summary
-•	This system helps manager to keep track of all projects and know who all employees have logged their efforts in hours.
-•	Employee can have track of work records and know about deadlines and work before that date.
-•	Manager can check all status of employees and day by day progress can also be viewed.
+* This system helps manager to keep track of all projects and know who all employees have logged their efforts in hours.
+* Employee can have track of work records and know about deadlines and work before that date.
+* Manager can check all status of employees and day by day progress can also be viewed.
 
 
 
 
 ## Future Scope 
-•	Project related queries and workflow can be shared and stored among all employees working on that department.
-•	Employee can request for particular project and Manager can assign similar projects based on history of working of that employee.
-•	Employee can restrict to the maximum of project assigned to him in same duration.
+* Project related queries and workflow can be shared and stored among all employees working on that department.
+* Employee can request for particular project and Manager can assign similar projects based on history of working of that employee.
+* Employee can restrict to the maximum of project assigned to him in same duration.
 
